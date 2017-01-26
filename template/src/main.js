@@ -12,7 +12,6 @@ import model from './modules/model'
 
 var app = {}
 app.model = model;
-app.services = services;
 app.methods = methods;
 window.app = app;
 
